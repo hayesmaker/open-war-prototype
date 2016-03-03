@@ -30,6 +30,7 @@ current state). (see Game State API).
 ### Database Support
 - Engine could provide hooks to store game state on a database (to allow clients to do "cloud" saving)
 - Gameplay analytics could also be savable on a db.
+- User details can be stored on db together with games in progress, or a record of in game statistics.
 
 ### Game State API
 - user should be able to query game state.
