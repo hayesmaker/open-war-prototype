@@ -1,7 +1,7 @@
 # open-war-prototype
 express prototype for the open-war-engine
  
-[Features](docs/features.md)
+[Features](/wiki/)
 
 ## install
 `npm install`
