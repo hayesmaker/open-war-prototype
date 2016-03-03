@@ -15,5 +15,5 @@ OWE.main();
 ```
 
 ## Run web client
-`npm start`
-`localhost:8000`
+- `npm start`
+- `localhost:8000`
