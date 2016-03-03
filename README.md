@@ -1,7 +1,7 @@
 # open-war-prototype
 express prototype for the open-war-engine
  
-[Features](https://github.com/hayesmaker/open-war-prototype/wiki)
+[Features Wiki](https://github.com/hayesmaker/open-war-prototype/wiki/Features)
 
 ## install
 `npm install`
